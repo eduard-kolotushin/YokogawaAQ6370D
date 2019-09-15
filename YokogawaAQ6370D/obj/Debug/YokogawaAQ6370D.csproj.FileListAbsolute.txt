@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\YokogawaAQ6370D\YokogawaAQ6370D\bin\Debug\YokogawaAQ6370D.exe.config
+C:\Users\User\source\repos\YokogawaAQ6370D\YokogawaAQ6370D\bin\Debug\YokogawaAQ6370D.exe
+C:\Users\User\source\repos\YokogawaAQ6370D\YokogawaAQ6370D\bin\Debug\YokogawaAQ6370D.pdb
+C:\Users\User\source\repos\YokogawaAQ6370D\YokogawaAQ6370D\obj\Debug\YokogawaAQ6370D.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\YokogawaAQ6370D\YokogawaAQ6370D\obj\Debug\YokogawaAQ6370D.Form1.resources
+C:\Users\User\source\repos\YokogawaAQ6370D\YokogawaAQ6370D\obj\Debug\YokogawaAQ6370D.Properties.Resources.resources
+C:\Users\User\source\repos\YokogawaAQ6370D\YokogawaAQ6370D\obj\Debug\YokogawaAQ6370D.csproj.GenerateResource.cache
+C:\Users\User\source\repos\YokogawaAQ6370D\YokogawaAQ6370D\obj\Debug\YokogawaAQ6370D.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\YokogawaAQ6370D\YokogawaAQ6370D\obj\Debug\YokogawaAQ6370D.exe
+C:\Users\User\source\repos\YokogawaAQ6370D\YokogawaAQ6370D\obj\Debug\YokogawaAQ6370D.pdb
